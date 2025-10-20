@@ -17,7 +17,7 @@ jobs:
     env:
       REPO_URL: "taotaorr/demo.github.io"  # 远程仓库的 URL
       BUILD_PATH: ".vitepress/dist"  # 构建输出路径
-      CUSTOM_DOMAIN: "taotao.demo.xzy"  # 自定义域名
+      CUSTOM_DOMAIN: "demo.9918988.xyz"  # 自定义域名
 
     steps:
       - name: Set up Node.js
